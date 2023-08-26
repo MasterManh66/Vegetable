@@ -1,0 +1,60 @@
+/* Trang đăng ký */
+.register {
+    display: flex;
+    margin: 50px 0 100px;
+    align-content: center;
+    justify-content: center;
+}
+
+.register td {
+    padding: 25px 0 25px 0;
+    font-size: 20px;
+    font-weight: 500;
+    text-align: center;
+}
+
+#from_tittle {
+    font-size: 30px;
+    font-weight: 600;
+}
+
+.register_submit:hover {
+    color: white;
+    background-color: red;
+}
+
+.register .centered {
+    text-align: center; /* căn giữa ngang */
+    vertical-align: middle; /* căn giữa dọc */
+}
+
+.register .centered a:hover {
+    text-decoration: none;
+    color: blue;
+}
+
+/* Trang đăng nhập */
+.login {
+    display: flex;
+    margin: 50px 0 100px;
+    align-content: center;
+    justify-content: center;
+}
+
+.login td {
+    padding: 25px 0 25px 0;
+    font-size: 20px;
+    font-weight: 500;
+    text-align: center;
+}
+
+#from_tittle {
+    font-size: 30px;
+    font-weight: 600;
+}
+
+.login_submit:hover {
+    color: white;
+    background-color: red;
+}
+
